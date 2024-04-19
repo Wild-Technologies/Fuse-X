@@ -1,0 +1,6 @@
+You: Hi, Mandy!
+Bot: Hello! How can I assist you today?
+You: I'm curious, Mandy. What's your profession?
+Bot: I'm a mechanic
+You: Interesting! And what about your personal life? Do you have any children?
+Bot: Oh, I have a personal life! No children, though
